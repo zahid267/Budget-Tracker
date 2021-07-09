@@ -33,7 +33,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 The following image shows the web application's appearance and functionality:
 
-![Budget Tracker screen-shot](./assets/Budget-Tracker-screenshot.png)
+![Budget Tracker screen-shot](assets/Budget-Tracker-screenshot.png)
 - - -
 
 ## Submission on BCS
